@@ -1,0 +1,245 @@
+{
+  "planes-grupales": [
+    {
+      "attributes": {
+        "attribute_clases": "CLASE PARTICULAR",
+        "attribute_duracion": "1 DÍA"
+      },
+      "price": 35000,
+      "sku": "",
+      "id": 336
+    },
+    {
+      "attributes": {
+        "attribute_clases": "CLASE EXTRA",
+        "attribute_duracion": "1 DÍA"
+      },
+      "price": 30000,
+      "sku": "",
+      "id": 258
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 4 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 110000,
+      "sku": "",
+      "id": 263
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 4 CLASES",
+        "attribute_duracion": "BIMENSUAL"
+      },
+      "price": 200000,
+      "sku": "",
+      "id": 264
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 4 CLASES",
+        "attribute_duracion": "TRIMESTRAL"
+      },
+      "price": 280000,
+      "sku": "",
+      "id": 265
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 10 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 230000,
+      "sku": "",
+      "id": 267
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 10 CLASES",
+        "attribute_duracion": "BIMENSUAL"
+      },
+      "price": 430000,
+      "sku": "",
+      "id": 268
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 10 CLASES",
+        "attribute_duracion": "TRIMESTRAL"
+      },
+      "price": 500000,
+      "sku": "",
+      "id": 269
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 12 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 250000,
+      "sku": "",
+      "id": 271
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 12 CLASES",
+        "attribute_duracion": "BIMENSUAL"
+      },
+      "price": 450000,
+      "sku": "",
+      "id": 272
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 12 CLASES",
+        "attribute_duracion": "TRIMESTRAL"
+      },
+      "price": 630000,
+      "sku": "",
+      "id": 273
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 16 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 300000,
+      "sku": "",
+      "id": 275
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 16 CLASES",
+        "attribute_duracion": "BIMENSUAL"
+      },
+      "price": 550000,
+      "sku": "",
+      "id": 276
+    },
+    {
+      "attributes": {
+        "attribute_clases": "PACK 16 CLASES",
+        "attribute_duracion": "TRIMESTRAL"
+      },
+      "price": 800000,
+      "sku": "",
+      "id": 277
+    }
+  ],
+  "planes-propietarios": [
+    {
+      "attributes": {
+        "attribute_clases": "CLASE PARTICULAR",
+        "attribute_duracion": "1 DÍA"
+      },
+      "price": 30000,
+      "sku": "",
+      "id": 322
+    },
+    {
+      "attributes": {
+        "attribute_clases": "CLASE EXTRA",
+        "attribute_duracion": "1 DÍA"
+      },
+      "price": 20000,
+      "sku": "",
+      "id": 286
+    },
+    {
+      "attributes": {
+        "attribute_clases": "4 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 80000,
+      "sku": "",
+      "id": 291
+    },
+    {
+      "attributes": {
+        "attribute_clases": "8CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 150000,
+      "sku": "",
+      "id": 295
+    },
+    {
+      "attributes": {
+        "attribute_clases": "12 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 200000,
+      "sku": "",
+      "id": 299
+    },
+    {
+      "attributes": {
+        "attribute_clases": "20 CLASES",
+        "attribute_duracion": "MENSUAL"
+      },
+      "price": 250000,
+      "sku": "",
+      "id": 303
+    },
+    {
+      "attributes": {
+        "attribute_clases": "20 CLASES",
+        "attribute_duracion": "TRIMESTRAL"
+      },
+      "price": 850000,
+      "sku": "",
+      "id": 305
+    }
+  ],
+  "primeros-pasos": [
+    {
+      "attributes": {
+        "attribute_clases": "CLASE EXTRA"
+      },
+      "price": 12500,
+      "sku": "",
+      "id": 279
+    },
+    {
+      "attributes": {
+        "attribute_clases": "4 CLASES"
+      },
+      "price": 45000,
+      "sku": "",
+      "id": 280
+    },
+    {
+      "attributes": {
+        "attribute_clases": "8CLASES"
+      },
+      "price": 85000,
+      "sku": "",
+      "id": 281
+    },
+    {
+      "attributes": {
+        "attribute_clases": "12CLASES"
+      },
+      "price": 120000,
+      "sku": "",
+      "id": 282
+    },
+    {
+      "attributes": {
+        "attribute_clases": "16 CLASES"
+      },
+      "price": 150000,
+      "sku": "",
+      "id": 283
+    },
+    {
+      "attributes": {
+        "attribute_clases": "20 CLASES"
+      },
+      "price": 180000,
+      "sku": "",
+      "id": 284
+    }
+  ]
+}
